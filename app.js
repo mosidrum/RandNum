@@ -1,3 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const number = document.getElementById('number');
 
 const button = document.getElementById('generator');
@@ -7,6 +28,26 @@ const randomNumberGenerator = () => {
 
    number.textContent = randomNumber
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 button.addEventListener('click', randomNumberGenerator)
 randomNumberGenerator();
