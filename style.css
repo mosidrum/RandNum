@@ -6,7 +6,7 @@
     font-family: courgette;
 }
 body{
-    background-color: #eee;
+    background-color: rgb(43, 71, 11);
     height: 100vh;
     display: flex;
     align-items: center;
@@ -17,7 +17,7 @@ body{
     padding: 2rem;
     border-radius: 1rem;
     text-align: center;
-    border: 0.1rem solid #000;
+    border: 0.1rem solid rgb(160, 212, 36);
 }
 .container h1{
     margin-bottom: 1rem;
